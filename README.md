@@ -4,10 +4,10 @@
 A simple calculator application built using C++ performing basic arithmetic operations like addition, subtraction,and division.
 
 ## Features
-- + Addition
-- - Subtraction
-- * Multiplication
--  / Division
+- Addition
+- Subtraction
+- Multiplication
+- Division
 - Menu-driven interface
 
 ## Technologies used
