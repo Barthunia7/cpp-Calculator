@@ -7,14 +7,14 @@ A simple calculator application built using C++ performing basic arithmetic oper
 > + Addition
 > - Subtraction
 > * Multiplication
-> / Division
-> Menu-driven interface
+>  / Division
+>  Menu-driven interface
 
 ## Technologies used
 -C++
 
 ## How to run
--Clone the repsitory.
--Open the project in any C++ compiler(VS Code/CodeBlocks)
--Compile the program
--Run the program
+- Clone the repsitory.
+- Open the project in any C++ compiler(VS Code/CodeBlocks)
+- Compile the program
+- Run the program
